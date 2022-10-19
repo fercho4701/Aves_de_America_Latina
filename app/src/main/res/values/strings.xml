@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aves de América Latina</string>
+    <string name="btn_text_aves">Aves de América Latina</string>
+    <string name="btn_COLOMBIA">COLOMBIA</string>
+    <string name="btn_VENEZUELA">VENEZUELA</string>
+    <string name="btn_peru">PERÚ</string>
+    <string name="btn_ECUADOR">ECUADOR</string>
+    <string name="btn_MEXICO">MÉXICO</string>
+    <string name="btn_barranquero">Canto del barranquero</string>
+    <string name="btn_colonia_colonus">Canto colonia colonus</string>
+    <string name="btn_cotua_olivacea">Canto del Cotúa Olivácea</string>
+    <string name="btn_martin_pescador">Canto del martin pescador</string>
+    <string name="btn_elaenia">Canto del elaenia</string>
+    <string name="btn_Euphonia">Canto del Euphonia</string>
+    <string name="btn_aruco">Canto del Aruco</string>
+    <string name="btn_vencelejo">Canto del vencelejo</string>
+    <string name="btn_cernicalo">Canto del cernícalo</string>
+    <string name="btn_carpintero_cheje">Canto del carpintero cheje</string>
+
+</resources>
